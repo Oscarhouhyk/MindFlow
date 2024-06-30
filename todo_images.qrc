@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/delete.png</file>
+        <file>images/plus_4315609.png</file>
+        <file>images/delete-512.png</file>
+    </qresource>
+</RCC>
